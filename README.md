@@ -77,7 +77,7 @@ Esta tabla muestra las intersecciones analizadas, incluyendo su identificación,
 
 ### Graficos 
 Ejemplo para 1 interseccion:
-![Resultados de la intersección 1](Figura_6.png)  
+![Resultados de la intersección 1](Figura_6.jpg)  
 
 ---
 
