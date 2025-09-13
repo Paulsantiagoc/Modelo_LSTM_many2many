@@ -20,7 +20,7 @@ El modelo se basa en:
    - Captura patrones **secuenciales** en el tiempo a partir de las representaciones y variables históricas. Para este estudio son 3 variables por cada interseccion.
    - El modelo utiliza una **ventana temporal de cuatro pasos**.
    
-![Arquitectura GCN + LSTM](Figura_7.jpg)
+![Arquitectura LSTM](Figura_5.jpg)
 
 ---
 
