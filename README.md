@@ -87,7 +87,7 @@ Ejemplo para 1 interseccion:
 - Proyecto desarrollado y probado en **Google Colab**.
 
 ### Archivos de datos
-- Archivo original: `pems08_dataframe_30nodes.xls`  
+- Archivo original: `pems08_dataframe_30nodes.xlsx`  
 
 ### Pasos
 1. **Clonar** el repositorio.
