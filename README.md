@@ -77,7 +77,7 @@ Esta tabla muestra las intersecciones analizadas, incluyendo su identificación,
 
 ### Graficos 
 Ejemplo para 1 interseccion:
-![Resultados de la intersección 1 para el set de Train](Figura_8A.png)  
+![Resultados de la intersección 1](Figura_6.png)  
 
 ---
 
